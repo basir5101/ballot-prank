@@ -49,7 +49,7 @@ const App: React.FC = () => {
 
       {/* Footer */}
       <footer className="mt-8 text-gray-500 text-sm flex flex-col items-center">
-        <p>© ২০২৫ বাংলাদেশ নির্বাচন কমিশন (প্যারোডি)</p>
+        <p>© 2026 বাংলাদেশ নির্বাচন কমিশন (প্যারোডি)</p>
         <p className="mt-1">সুষ্ঠু ও নিরপেক্ষ নির্বাচনের অঙ্গীকার</p>
       </footer>
 
